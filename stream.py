@@ -6,9 +6,7 @@ import json
 
 
 st.title("GSC Submiter by FayBB")
-st.write("Sebagai contoh, masukkan https://www.tutorialelektronik.my.id/ (WEB TERDAFTAR)")
-st.write("Sebagai contoh, masukkan https://www.youtube.com/ (WEB TIDAK TERDAFTAR)")
-st.write("Hanya web yang terdaftar saya yang bisa submit dan berhasil")
+st.write("Hanya web yang sudah terdaftar yang bisa menggunakan tools ini.")
 
 
 def generate_article(url):
